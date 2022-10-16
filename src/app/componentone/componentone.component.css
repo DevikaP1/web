@@ -1,0 +1,24 @@
+.main{
+    border: 20px;
+    height: 600px;
+    width: 30%;
+    background-color: aquamarine;
+    border-style:groove;
+    
+    
+}
+button{
+    margin-left:190px;
+    margin-top: -10px;
+}
+.new
+{
+    margin-top: -0px;
+    margin-left: 10px;
+
+}
+.im{
+    margin-top: 10px;
+    margin-left: 100px;
+    overflow: hidden;
+}
